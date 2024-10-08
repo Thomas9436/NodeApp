@@ -1,0 +1,44 @@
+# Node modules
+node_modules/
+ 
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Production build
+build/
+dist/
+
+# Dependency directories
+jspm_packages/
+
+# IDE specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Temporary files
+tmp/
+temp/
+
+# Coverage directory used by testing tools
+coverage/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled assets
+public/assets/
